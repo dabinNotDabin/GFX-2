@@ -1,0 +1,11 @@
+﻿  GOL.cpp
+c:\uofc\cpsc453\asg2\a2workspace\imagemanipulation\imagemanipulation\gol.cpp(22): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\uofc\cpsc453\asg2\a2workspace\imagemanipulation\imagemanipulation\gol.cpp(81): warning C4305: 'return': truncation from 'int' to 'bool'
+c:\uofc\cpsc453\asg2\a2workspace\imagemanipulation\imagemanipulation\gol.cpp(351): warning C4244: 'initializing': conversion from 'uint' to 'float', possible loss of data
+c:\uofc\cpsc453\asg2\a2workspace\imagemanipulation\imagemanipulation\gol.cpp(352): warning C4244: 'initializing': conversion from 'uint' to 'float', possible loss of data
+c:\uofc\cpsc453\asg2\a2workspace\imagemanipulation\imagemanipulation\gol.cpp(361): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\uofc\cpsc453\asg2\a2workspace\imagemanipulation\imagemanipulation\gol.cpp(362): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\uofc\cpsc453\asg2\a2workspace\imagemanipulation\imagemanipulation\gol.cpp(451): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\uofc\cpsc453\asg2\a2workspace\imagemanipulation\imagemanipulation\gol.cpp(452): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  imageManipulation.vcxproj -> C:\UofC\CPSC453\asg2\a2Workspace\imageManipulation\Debug\imageManipulation.exe
+  imageManipulation.vcxproj -> C:\UofC\CPSC453\asg2\a2Workspace\imageManipulation\Debug\imageManipulation.pdb (Partial PDB)

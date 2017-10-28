@@ -1,0 +1,4 @@
+Hardcoded GL_BGR into format argument of glTexImage2D in the loadImageDataIntoTexture and SimpleTexture::load(data) functions
+
+Hardcoded the reversal of pixel storage within the loadImageDataIntoTexture function (near the end in the for loop to populate the vector).
+
